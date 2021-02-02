@@ -8,8 +8,8 @@ O Javascipcie można powiedzieć wiele rzeczy - interpretowany, luźno typowany,
 
 A wiec czym jest JS? Jest językiem możliwości. Jeśli chcesz zrobić coś z zakresu programowania wysoko poziomowego, raczej uda ci się to zrobić. Od strony internetowej przez aplikacje desktopowe i mobilne po sterowanie urządzeniami fabrycznymi (zielonego pojęcia nie mam jak). Co w tym najlepsze? Często cześć kodu odpowiedzialna za _działanie_ aplikacji można przenieść bez większych problemów na nowa platformę, co pozostawia tylko cześć _wyglądową_ do napisania od nowa.
 
-Zalety nie kończą się na uniwersalności. W standard wchodzą także takie koncepty jak closures, mixins, OOP, run-time evaluation, anonymous functions, promises i wiele wiele wiecej. Wiekszosc zapewne wam nie mowi za duzo lub nie brzmi jak przelom w waszym zyciu, ale jesli 
+Zalety nie kończą się na uniwersalności. W standard wchodzą także takie koncepty jak closures, mixins, OOP, run-time evaluation, anonymous functions, promises, array comprehension i wiele wiele wiecej. Wiekszosc zapewne wam nie mowi za duzo lub nie brzmi jak przelom w waszym zyciu, ale jesli faktycznie wejdziecie w JS to ... zapewne wciaz nie bedzie to przelom.  Sa to wygodne udogodnienia ktore pomagaja w codziennym programowaniu i moge smialo powiedziec z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM5NzY5MjMsLTg0ODY1NzUwMiwxND
-UyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbMTQyNTE1Nzg3MywtODQ4NjU3NTAyLDE0NT
+IwOTA4M119
 -->
