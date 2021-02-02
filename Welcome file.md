@@ -22,9 +22,9 @@ NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami,
 
 Warto tez zauważyć, ze nie ma potrzeby zapełniania naszych repozytoriów na gicie setkami, tysiącami a czasami dziesiątakami tysięcy paczek - npm "zapamiętuje" jakie paczki powinny być zainstalowane w pliku `package.json`. Prosta komenda `npm install` (bez nazw paczek) sprawi, ze npm zainstaluje wszystkie paczki potrzebne lokalnie. 
 
-### NODE
-
+### Node.js
+No i kwintesencja naszego spotkania - Node. Jest to de facto "sposob" aka intepreter, ktorego bedziemu używać 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzUwMTY5OCwtODQ4NjU3NTAyLDE0NT
+eyJoaXN0b3J5IjpbMTIwMzE2NDYwOCwtODQ4NjU3NTAyLDE0NT
 IwOTA4M119
 -->
