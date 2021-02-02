@@ -4,7 +4,7 @@
 
 ### Omówienie języka
 
-O Javascipcie można powiedzieć wiele rzeczy - skryptowy, obiektowy , funkcyjny... 
+O Javascipcie można powiedzieć wiele rzeczy - skryptowy, interpretowany
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY3NzUyNDksMTQ1MjA5MDgzXX0=
+eyJoaXN0b3J5IjpbMTE5MDk0NzQ2MCwxNDUyMDkwODNdfQ==
 -->
