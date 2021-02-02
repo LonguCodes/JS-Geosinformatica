@@ -16,10 +16,13 @@ I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard
 Ale koniec smęcenia i nudnej teorii - przejdźmy do kodu... no tak, npm. Co to takiego? Największy przyjaciel młodego programisty i największa zmora osoby która faktycznie stawia napisana aplikacje.
 
 NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami, nazywanymi często w językach skryptowych jako paczki. Istnieją alternatywy, jak np `yarn` lub nakładki jak np `pnpm`, jednak podczas tego kursu będziemy używać czystego `npm`'a. Omawiając tylko `npm`'a można zapełnić tygodniowa konferencje, jeśli nie więcej, ale dla nas liczy się tylko kilka rzeczy:
- - Paczki instalowane są per projekt (aczkolwiek jest możliwość instalacji globalnej)
- - W oficjalnych repozytoriach znajdziemy bibliotekę prawie do każdej rzeczy która chcemy zrobić
- - In
+ - Paczki instalowane są per projekt (aczkolwiek jest możliwość instalacji globalnej),
+ - W oficjalnych repozytoriach znajdziemy bibliotekę prawie do każdej rzeczy która chcemy zrobić,
+ - Instalacja biblioteki/paczki to proste `npm install <NAZWA> [<NAZWA2> ...]`.
+
+Warto tez zauwazyc, ze 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzQ4Mzk5OSwtODQ4NjU3NTAyLDE0NT
-IwOTA4M119
+eyJoaXN0b3J5IjpbNTgxNDMxNTkyLC04NDg2NTc1MDIsMTQ1Mj
+A5MDgzXX0=
 -->
