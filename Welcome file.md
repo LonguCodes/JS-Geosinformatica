@@ -4,7 +4,7 @@
 
 ### Omówienie języka
 
-O Javascipcie można powiedzieć wiele rzeczy - skryptowy
+O Javascipcie można powiedzieć wiele rzeczy - skryptowy  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyOTk5NzI3LDE0NTIwOTA4M119
+eyJoaXN0b3J5IjpbMTc0MzA5NjU1OSwxNDUyMDkwODNdfQ==
 -->
