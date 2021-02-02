@@ -10,8 +10,8 @@ A wiec czym jest JS? Jest językiem możliwości. Jeśli chcesz zrobić coś z z
 
 Zalety nie kończą się na uniwersalności. W standard wchodzą także takie koncepty jak closures, mixins, OOP, run-time evaluation, anonymous functions, promises, array comprehension i wiele wiele więcej. Większość zapewne wam nie mówi za dużo lub nie brzmi jak przełom w waszym życiu, ale jeśli faktycznie wejdziecie w JS to ... zapewne wciąż nie będzie to przełom. Są to wygodne udogodnienia które pomagają w codziennym programowaniu i mogę śmiało powiedzieć ze podczas pisania kodu w innych językach brakuje mi niektórych z wymienionych własności.
 
-I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard" a nie "w listę cech języka". Javascript to tylko jedna z imp
+I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard" a nie "w listę cech języka". Javascript to tylko jedna z implementacji standardu ECMAscript, w dodatku nie zawsze zgodna. Nie kazda linijka ktora napiszecie na silniku Node.js (ktory bedzie glowym tematem kursu) zadziala w IE11 i vice versa. Istnieje duzo praktycznych implementacji jezyka javascript i e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ5OTc4MDYsLTg0ODY1NzUwMiwxND
+eyJoaXN0b3J5IjpbLTE4NDE0NjYzOTIsLTg0ODY1NzUwMiwxND
 UyMDkwODNdfQ==
 -->
