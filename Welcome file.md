@@ -20,9 +20,9 @@ NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami,
  - W oficjalnych repozytoriach znajdziemy bibliotekę prawie do każdej rzeczy która chcemy zrobić,
  - Instalacja biblioteki/paczki to proste `npm install <NAZWA> [<NAZWA2> ...]`.
 
-Warto tez zauwazyc, ze 
+Warto tez zauwazyc, ze nie ma potrzeby zapelniania naszych repozytoriow na gicie setkami, tysicami a czasami dziesiatakami tysiecy paczek - npm "z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNDMxNTkyLC04NDg2NTc1MDIsMTQ1Mj
-A5MDgzXX0=
+eyJoaXN0b3J5IjpbLTEzNjM3OTY3OTQsLTg0ODY1NzUwMiwxND
+UyMDkwODNdfQ==
 -->
