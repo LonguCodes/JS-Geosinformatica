@@ -15,14 +15,14 @@ I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard
 ### NPM i inne takie
 Ale koniec smęcenia i nudnej teorii - przejdźmy do kodu... no tak, npm. Co to takiego? Największy przyjaciel młodego programisty i największa zmora osoby która faktycznie stawia napisana aplikacje.
 
-NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami, nazywanymi często w językach skryptowych jako paczki. Istnieją alternatywy, jak np `yarn` lub nakładki jak np `pnpm`, jednak podczas tego kursu będziemy używać czystego `npm`'a. Omawiając tylko `npm`'a można zapełnić tygodniowa konferencje, jeśli nie więcej, ale dla nas liczy się tylko kilka rzeczy:
+NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami, nazywanymi często w językach skryptowych jako paczki. Istnieją alternatywy, jak np `yarn` lub nakładki jak np `pnpm`, jednak podczas tego kursu będziemy używać czystego npm'a. Omawiając tylko npm'a można zapełnić tygodniowa konferencje, jeśli nie więcej, ale dla nas liczy się tylko kilka rzeczy:
  - Paczki instalowane są per projekt (aczkolwiek jest możliwość instalacji globalnej),
  - W oficjalnych repozytoriach znajdziemy bibliotekę prawie do każdej rzeczy która chcemy zrobić,
  - Instalacja biblioteki/paczki to proste `npm install <NAZWA> [<NAZWA2> ...]`.
 
-Warto tez zauwazyc, ze nie ma potrzeby zapelniania naszych repozytoriow na gicie setkami, tysicami a czasami dziesiatakami tysiecy paczek - npm "z
+Warto tez zauważyć, ze nie ma potrzeby zapełniania naszych repozytoriów na gicie setkami, tysiącami a czasami dziesiątakami tysięcy paczek - npm "zapamiętuje" jakie paczki powinny być zainstalowane w pliku package.json
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM3OTY3OTQsLTg0ODY1NzUwMiwxND
-UyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbNTgyMDEzMTc2LC04NDg2NTc1MDIsMTQ1Mj
+A5MDgzXX0=
 -->
