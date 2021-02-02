@@ -2,9 +2,9 @@
 
 ## 1.  Wprowadzenie
 
-### Omówienie jezyka
+### Omówienie języka
 
-O Javascipcie mozna 
+O Javascipcie można powiedzieć wiele rzeczy - skryptowy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDcxMzc2NCwxNDUyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbNDkyOTk5NzI3LDE0NTIwOTA4M119
 -->
