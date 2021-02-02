@@ -15,8 +15,8 @@ I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard
 ### NPM i inne takie
 Ale koniec smęcenia i nudnej teorii - przejdźmy do kodu... no tak, npm. Co to takiego? Największy przyjaciel młodego programisty i największa zmora osoby która faktycznie stawia napisana aplikacje.
 
-NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami, nazywanymi często w językach skryptowych jako paczki. Bedzie on dzisiaj wymagany do 
+NPM, aka Node Package Manager, to program? system? do zarządzania bibliotekami, nazywanymi często w językach skryptowych jako paczki. Podobnie jak sam JS ma jest to raczej implementacja konceptu, jednak 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI0MTczNTMsLTg0ODY1NzUwMiwxND
-UyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbNjQ4OTYwNTcsLTg0ODY1NzUwMiwxNDUyMD
+kwODNdfQ==
 -->
