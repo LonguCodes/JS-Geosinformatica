@@ -13,8 +13,10 @@ Zalety nie kończą się na uniwersalności. W standard wchodzą także takie ko
 I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard" a nie "w listę cech języka". Javascript to tylko jedna z implementacji standardu ECMAscript, w dodatku nie zawsze zgodna. Nie każda linijka która napiszecie na silniku Node.js (który będzie głównym tematem kursu) zadziała w IE11 i vice versa. Istnieje dużo praktycznych implementacji języka javascript i czasami może się zdążyć ze ktoś użyje starszej przeglądarki lub silnika niż zamierzyliście i efekt waszej pracy pójdzie na marne, bo zamiast pochwały otrzymacie telefon o przełożonego, bo  przecież są błędy.
 
 ### NPM i inne takie
-Ale koniec smecenia i nudnej teorii - przejdzmy do kod... 
+Ale koniec smęcenia i nudnej teorii - przejdźmy do kodu... no tak, npm. Co to takiego? Największy przyjaciel młodego programisty i największa zmora osoby która faktycznie stawia napisana aplikacje.
+
+NPM, aka Node Package Manager
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzExNzQ3MiwtODQ4NjU3NTAyLDE0NT
+eyJoaXN0b3J5IjpbLTgyMzY1OTM5MCwtODQ4NjU3NTAyLDE0NT
 IwOTA4M119
 -->
