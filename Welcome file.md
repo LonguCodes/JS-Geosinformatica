@@ -41,11 +41,11 @@ Z innych dobrych edytorów mogę polecić Visual Studio Code, Atom lub Sublime (
 - TypeScript - nakladka na JavaScript dodająca typowanie.
 - Babel - narzedzie pozwalające na przekompilowanie naszego kodu na starsze wersje JavaScriptu.
 
-Jest to ulamek ulamka narzedzi uzywanych  
+Jest to ułamek ułamka narzędzi używanych w świecie JavaScriptu. Nie mniej jednak są ta niektóre, które są przydatne i warto je znac.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNzA3MjQwLC0xOTMxOTI2MjA0LC0xMT
-c1MjQxODUyLDE5NzE0NDUyOTgsNjQyMzU4MTUsNTY2OTA0NDQ5
-LDIwMTk1OTY3MDUsLTIxNDY0ODk3NzMsLTE4NTY3OTI2NjgsLT
-Y2Mjc0ODUxOSwtODQ4NjU3NTAyLDE0NTIwOTA4M119
+eyJoaXN0b3J5IjpbLTY4NTAyMTg5OSwtMTkzMTkyNjIwNCwtMT
+E3NTI0MTg1MiwxOTcxNDQ1Mjk4LDY0MjM1ODE1LDU2NjkwNDQ0
+OSwyMDE5NTk2NzA1LC0yMTQ2NDg5NzczLC0xODU2NzkyNjY4LC
+02NjI3NDg1MTksLTg0ODY1NzUwMiwxNDUyMDkwODNdfQ==
 -->
