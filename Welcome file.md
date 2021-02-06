@@ -34,9 +34,11 @@ Teoria teorią, ale co my właściwie potrzebujemy zainstalować na komputerze, 
 ### Edytor
 Kwestia edytora jest podobna do kwestii ulubionego ciasta. Każdy jest dobry, ale każdy ma swój ulubiony. Osobiście mogę polecić WebStorm od firmy JetBrains. Posiada on natywne wsparcie dla wielu technologii jak i nawet przyzwoity zestaw pluginów, mimo że zdecydowanie ich nie potrzebuje.
 
-Z innych dobrych edytorów mogę polecić Visual Studio Code, Atom lub Sublime (tylko z opinii), jednakże każde z tych rozwiązań wymaga dodania znacznej ilości dodatków, żeby dogonić WebStorm'a, ale daje nam to także możliwość "stworzenia" edytora idealnie dopasowanego  do naszych potrzeb.
+Z innych dobrych edytorów mogę polecić Visual Studio Code, Atom lub Sublime (tylko z opinii), jednakże każde z tych rozwiązań wymaga dodania znacznej ilości dodatków, żeby dogonić WebStorm'a, ale daje nam to także możliwość "stworzenia" edytora idealnie dopasowanego do naszych potrzeb.
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDA5ODkxNCw1NjY5MDQ0NDksMjAxOT
-U5NjcwNSwtMjE0NjQ4OTc3MywtMTg1Njc5MjY2OCwtNjYyNzQ4
-NTE5LC04NDg2NTc1MDIsMTQ1MjA5MDgzXX0=
+eyJoaXN0b3J5IjpbNjQyMzU4MTUsNTY2OTA0NDQ5LDIwMTk1OT
+Y3MDUsLTIxNDY0ODk3NzMsLTE4NTY3OTI2NjgsLTY2Mjc0ODUx
+OSwtODQ4NjU3NTAyLDE0NTIwOTA4M119
 -->
