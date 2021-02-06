@@ -40,13 +40,13 @@ Z innych dobrych edytorów mogę polecić Visual Studio Code, Atom lub Sublime (
 - Webpack - narzedzie do zmiany wszystkich naszych plików w projekcie w jeden, duży plik, przy okazji utrudniając jego kopiowanie poprzez sprawienie, ze nie jest on czytelny dla człowieka.
 - TypeScript - nakladka na JavaScript dodająca typowanie.
 - Babel - narzedzie pozwalające na przekompilowanie naszego kodu na starsze wersje JavaScriptu.
-- n oraz nvm -
+- n oraz nvm - przydatne narzędzia pozwalające na instalacje i aktualizację wersji Node'a oraz NPM'a, a także zarządzanie wieloma wersjami zainstalowanymi naraz.
 
 Jest to ułamek ułamka narzędzi używanych w świecie JavaScriptu. Nie mniej jednak są ta niektóre, które są przydatne i warto je znać.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Njk1NzUzNCwtNjg1MDIxODk5LC0xOT
+eyJoaXN0b3J5IjpbMTE2NDQzMjgzNiwtNjg1MDIxODk5LC0xOT
 MxOTI2MjA0LC0xMTc1MjQxODUyLDE5NzE0NDUyOTgsNjQyMzU4
 MTUsNTY2OTA0NDQ5LDIwMTk1OTY3MDUsLTIxNDY0ODk3NzMsLT
 E4NTY3OTI2NjgsLTY2Mjc0ODUxOSwtODQ4NjU3NTAyLDE0NTIw
