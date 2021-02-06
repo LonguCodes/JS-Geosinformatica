@@ -25,8 +25,12 @@ Warto tez zauważyć, ze nie ma potrzeby zapełniania naszych repozytoriów na g
 ### Node.js
 No i kwintesencja naszego kursu - Node. Jest to de facto "sposób" aka interpreter, którego będziemy używać do odpalania naszego kodu. Nie będę się wypowiadał za dużo na jego temat bo to wprowadzenie było wystarczająco długie, a kod się sam nie napisze. Dla nas liczy się to, że brakuje mu niektórych funkcjonalności, które posiada "przeglądarkowy" js, nadrabia gigantyczna ilością dużo bardziej przydatnych bibliotek i API (wspomniałem ze nie lubię pisać w JS przeglądarkowym?).
 
-## 2.  Wprowadzenie
+## 2.  Środowisko
+
+### Podstawy - Node i NPM
+
+Teoria teorią, ale co my właściwie potrzebujemy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY3OTI2NjgsLTY2Mjc0ODUxOSwtOD
-Q4NjU3NTAyLDE0NTIwOTA4M119
+eyJoaXN0b3J5IjpbLTIxNDY0ODk3NzMsLTE4NTY3OTI2NjgsLT
+Y2Mjc0ODUxOSwtODQ4NjU3NTAyLDE0NTIwOTA4M119
 -->
