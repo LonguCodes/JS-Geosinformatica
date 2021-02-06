@@ -39,11 +39,12 @@ Z innych dobrych edytorów mogę polecić Visual Studio Code, Atom lub Sublime (
 ### Przydatne paczki i technologie
 - Webpack - narzedzie do zmiany wszystkich naszych plików w projekcie w jeden, duży plik, przy okazji utrudniając jego kopiowanie poprzez sprawienie, ze nie jest on czytelny dla człowieka.
 - TypeScript - nakladka na JavaScript dodająca typowanie.
-- Babel - narzedzie do przekomilow
+- Babel - narzedzie pozwalające na przekompilowanie naszego kodu na starsze wersje JavaScriptu.
+-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzYyODEzMywtMTkzMTkyNjIwNCwtMT
-E3NTI0MTg1MiwxOTcxNDQ1Mjk4LDY0MjM1ODE1LDU2NjkwNDQ0
-OSwyMDE5NTk2NzA1LC0yMTQ2NDg5NzczLC0xODU2NzkyNjY4LC
-02NjI3NDg1MTksLTg0ODY1NzUwMiwxNDUyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzY3MTU5MDMsLTE5MzE5MjYyMDQsLT
+ExNzUyNDE4NTIsMTk3MTQ0NTI5OCw2NDIzNTgxNSw1NjY5MDQ0
+NDksMjAxOTU5NjcwNSwtMjE0NjQ4OTc3MywtMTg1Njc5MjY2OC
+wtNjYyNzQ4NTE5LC04NDg2NTc1MDIsMTQ1MjA5MDgzXX0=
 -->
