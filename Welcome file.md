@@ -29,8 +29,9 @@ No i kwintesencja naszego kursu - Node. Jest to de facto "sposób" aka interpret
 
 ### Podstawy - Node i NPM
 
-Teoria teorią, ale co my właściwie potrzebujemy
+Teoria teorią, ale co my właściwie potrzebujemy zainstalować na komputerze żeby pisać jakiś kod? Node i NPM!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY0ODk3NzMsLTE4NTY3OTI2NjgsLT
-Y2Mjc0ODUxOSwtODQ4NjU3NTAyLDE0NTIwOTA4M119
+eyJoaXN0b3J5IjpbLTg1MTExOTE1NiwtMjE0NjQ4OTc3MywtMT
+g1Njc5MjY2OCwtNjYyNzQ4NTE5LC04NDg2NTc1MDIsMTQ1MjA5
+MDgzXX0=
 -->
