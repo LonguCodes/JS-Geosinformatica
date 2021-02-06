@@ -32,9 +32,9 @@ No i kwintesencja naszego kursu - Node. Jest to de facto "sposób" aka interpret
 Teoria teorią, ale co my właściwie potrzebujemy zainstalować na komputerze żeby pisać jakiś kod? Node i NPM! Zazwyczaj instalujemy je razem jednym instalatorem/ w jednej paczce. Instalator pod Windowsa oraz MacOS można znaleźć [tu](https://nodejs.org/en/download/). Na Linuxie instalujemy za pomocą ulubionego managera paczek.
 
 ### Edytor
-Kwestia edytora jest podobna do kwestii ulubionego ciasta. Każdy jest dobry, ale każdy ma swój ulubiony. Osobiście mogę polecić WebStorm od firmy JetBrains. Posiada on natywne wsparcie dla wielu technologii jak i nawet przyzwoity 
+Kwestia edytora jest podobna do kwestii ulubionego ciasta. Każdy jest dobry, ale każdy ma swój ulubiony. Osobiście mogę polecić WebStorm od firmy JetBrains. Posiada on natywne wsparcie dla wielu technologii jak i nawet przyzwoity zestaw pluginów, mimo, że zdecydowanie ich nie potrzebuje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzY1MDgzMywyMDE5NTk2NzA1LC0yMT
-Q2NDg5NzczLC0xODU2NzkyNjY4LC02NjI3NDg1MTksLTg0ODY1
-NzUwMiwxNDUyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbNTY2OTA0NDQ5LDIwMTk1OTY3MDUsLTIxND
+Y0ODk3NzMsLTE4NTY3OTI2NjgsLTY2Mjc0ODUxOSwtODQ4NjU3
+NTAyLDE0NTIwOTA4M119
 -->
