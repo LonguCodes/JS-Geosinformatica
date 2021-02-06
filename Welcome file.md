@@ -4,13 +4,13 @@
 
 ### Omówienie języka
 
-O Javascipcie można powiedzieć wiele rzeczy - interpretowany, luźno typowany, webowy. Każde z tych twierdzeń jest prawdziwe i nie jednocześnie. Programiści JS są tego typu ludźmi, jeśli można o nich tak powiedzieć , którzy lubią utrudniać sobie życie poprzez tworzenie nowych frameworkow, bibliotek i paczek każdego dnia jeśli nie co [godzine](https://dayssincelastjavascriptframework.com/).  Świetnym przykładem jest tego połączenie TypeScriptu oraz Electrona, które zaprzecza wszystkim trzem założeniom wspomnianym wcześniej.
+O JavaScripcie można powiedzieć wiele rzeczy - interpretowany, luźno typowany, webowy. Każde z tych twierdzeń jest prawdziwe i nie jednocześnie. Programiści JS są tego typu ludźmi, jeśli można o nich tak powiedzieć, którzy lubią utrudniać sobie życie poprzez tworzenie nowych frameworkow, bibliotek i paczek każdego dnia jeśli nie co [godzinę](https://dayssincelastjavascriptframework.com/).  Świetnym przykładem jest tego połączenie TypeScriptu oraz Electrona, które zaprzecza wszystkim trzem założeniom wspomnianym wcześniej.
 
-A wiec czym jest JS? Jest językiem możliwości. Jeśli chcesz zrobić coś z zakresu programowania wysoko poziomowego, raczej uda ci się to zrobić. Od strony internetowej przez aplikacje desktopowe i mobilne po sterowanie urządzeniami fabrycznymi (zielonego pojęcia nie mam jak). Co w tym najlepsze? Często cześć kodu odpowiedzialna za _działanie_ aplikacji można przenieść bez większych problemów na nowa platformę, co pozostawia tylko cześć _wyglądową_ do napisania od nowa.
+A więc czym jest JS? Jest językiem możliwości. Jeśli chcesz zrobić coś z zakresu programowania wysoko poziomowego, raczej uda ci się to zrobić. Od strony internetowej przez aplikacje desktopowe i mobilne po sterowanie urządzeniami fabrycznymi (zielonego pojęcia nie mam jak). Co w tym najlepsze? Często cześć kodu odpowiedzialna za _działanie_ aplikacji można przenieść bez większych problemów na nową platformę, co pozostawia tylko cześć _wyglądową_ do napisania od nowa.
 
-Zalety nie kończą się na uniwersalności. W standard wchodzą także takie koncepty jak closures, mixins, OOP, run-time evaluation, anonymous functions, promises, array comprehension i wiele wiele więcej. Większość zapewne wam nie mówi za dużo lub nie brzmi jak przełom w waszym życiu, ale jeśli faktycznie wejdziecie w JS to ... zapewne wciąż nie będzie to przełom. Są to wygodne udogodnienia, które pomagają w codziennym programowaniu i mogę śmiało powiedzieć ze podczas pisania kodu w innych językach brakuje mi niektórych z wymienionych własności.
+Zalety nie kończą się na uniwersalności. W standard wchodzą także takie pojęcia jak closures, mixins, OOP, run-time evaluation, anonymous functions, promises, array comprehension i wiele więcej. Większość zapewne wam nie mówi za dużo lub nie brzmi jak przełom w waszym życiu, ale jeśli faktycznie wejdziecie w JS to ... zapewne wciąż nie będzie to przełom. Są to wygodne udogodnienia, które pomagają w codziennym programowaniu i mogę śmiało powiedzieć ze podczas pisania kodu w innych językach brakuje mi niektórych z wymienionych własności.
 
-I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard" a nie "w listę cech języka". Javascript to tylko jedna z implementacji standardu ECMAscript, w dodatku nie zawsze zgodna. Nie każda linijka która napiszecie na silniku Node.js (który będzie głównym tematem kursu) zadziała w IE11 i vice versa. Istnieje dużo praktycznych implementacji języka javascript i czasami może się zdążyć ze ktoś użyje starszej przeglądarki lub silnika niż zamierzyliście i efekt waszej pracy pójdzie na marne, bo zamiast pochwały otrzymacie telefon o przełożonego, bo  przecież są błędy.
+I tutaj dochodzimy do drugiej strony monety. Użyłem sformułowania "w standard" a nie "w listę cech języka". Javascript to tylko jedna z implementacji standardu ECMAscript, w dodatku nie zawsze zgodna. Nie każda linijka, która napiszecie na silniku Node.js (który będzie głównym tematem kursu) zadziała w IE11 i vice versa. Istnieje dużo praktycznych implementacji języka javascript i czasami może się zdążyć ze ktoś użyje starszej przeglądarki lub silnika niż zamierzyliście i efekt waszej pracy pójdzie na marne, bo zamiast pochwały otrzymacie telefon o przełożonego, bo  przecież są błędy.
 
 ### NPM i inne takie
 Ale koniec smęcenia i nudnej teorii - przejdźmy do kodu... no tak, npm. Co to takiego? Największy przyjaciel młodego programisty i największa zmora osoby, która faktycznie stawia napisana aplikacje.
@@ -34,7 +34,7 @@ Teoria teorią, ale co my właściwie potrzebujemy zainstalować na komputerze, 
 ### Edytor
 Kwestia edytora jest podobna do kwestii ulubionego ciasta. Każdy jest dobry, ale każdy ma swój ulubiony. Osobiście mogę polecić WebStorm od firmy JetBrains. Posiada on natywne wsparcie dla wielu technologii jak i nawet przyzwoity zestaw pluginów, mimo że zdecydowanie ich nie potrzebuje.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NDE2NDAzLDU2NjkwNDQ0OSwyMDE5NT
-k2NzA1LC0yMTQ2NDg5NzczLC0xODU2NzkyNjY4LC02NjI3NDg1
-MTksLTg0ODY1NzUwMiwxNDUyMDkwODNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTY5NDQ1MDMsNTY2OTA0NDQ5LDIwMT
+k1OTY3MDUsLTIxNDY0ODk3NzMsLTE4NTY3OTI2NjgsLTY2Mjc0
+ODUxOSwtODQ4NjU3NTAyLDE0NTIwOTA4M119
 -->
