@@ -27,11 +27,14 @@ No i kwintesencja naszego kursu - Node. Jest to de facto "sposób" aka interpret
 
 ## 2.  Środowisko
 
-### Podstawy - Node i NPM
+###  Node i NPM
 
-Teoria teorią, ale co my właściwie potrzebujemy zainstalować na komputerze żeby pisać jakiś kod? Node i NPM! Zazwyczaj instalujemy je razem jednym instalatorem/ w jednej paczce. Instalator pod Windowsa oraz MacOS można znaleźć [tu](https://nodejs.org/en/download/current/)
+Teoria teorią, ale co my właściwie potrzebujemy zainstalować na komputerze żeby pisać jakiś kod? Node i NPM! Zazwyczaj instalujemy je razem jednym instalatorem/ w jednej paczce. Instalator pod Windowsa oraz MacOS można znaleźć [tu](https://nodejs.org/en/download/). Na Linuxie instalujemy za pomocą ulubionego managera paczek.
+
+### Edytor
+Kwestia edytora jest podobna do kwestii ulubionego ciasta. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTU5NjcwNSwtMjE0NjQ4OTc3MywtMT
-g1Njc5MjY2OCwtNjYyNzQ4NTE5LC04NDg2NTc1MDIsMTQ1MjA5
-MDgzXX0=
+eyJoaXN0b3J5IjpbLTE5NjE4NDU2OCwyMDE5NTk2NzA1LC0yMT
+Q2NDg5NzczLC0xODU2NzkyNjY4LC02NjI3NDg1MTksLTg0ODY1
+NzUwMiwxNDUyMDkwODNdfQ==
 -->
