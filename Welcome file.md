@@ -37,10 +37,10 @@ Kwestia edytora jest podobna do kwestii ulubionego ciasta. Każdy jest dobry, al
 Z innych dobrych edytorów mogę polecić Visual Studio Code, Atom lub Sublime (tylko z opinii), jednakże każde z tych rozwiązań wymaga dodania znacznej ilości dodatków, żeby dogonić WebStorm'a, ale daje nam to także możliwość "stworzenia" edytora idealnie dopasowanego do naszych potrzeb.
 
 ### Przydatne paczki i technologie
-- 
+- Webpack - narzedzie do zmiany wszyskich naszych plikow w projekcie w jeden, duzy plik, przy okazji 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTkxMjEwMSw2NDIzNTgxNSw1NjY5MD
+eyJoaXN0b3J5IjpbMTk3MTQ0NTI5OCw2NDIzNTgxNSw1NjY5MD
 Q0NDksMjAxOTU5NjcwNSwtMjE0NjQ4OTc3MywtMTg1Njc5MjY2
 OCwtNjYyNzQ4NTE5LC04NDg2NTc1MDIsMTQ1MjA5MDgzXX0=
 -->
